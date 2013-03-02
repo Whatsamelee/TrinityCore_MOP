@@ -1,0 +1,7 @@
+-- First NPC implementation! --
+
+
+
+
+
+INSERT INTO `creature_template` --Data to be decided (DB struct not yet created) --
